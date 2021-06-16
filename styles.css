@@ -60,3 +60,7 @@ iframe,
 .codepen-embed {
   height: 400px;
 }
+
+a {
+  color: var(--text);
+}
