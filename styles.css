@@ -2,6 +2,7 @@
   --blue: #34568b;
   --white: #ffffff;
   --text: #c9d1d9;
+  --dark-grey: #15202b;
 }
 
 body {
@@ -11,7 +12,7 @@ body {
 }
 
 .remark-slide-content {
-  background-color: #15202b;
+  background-color: var(--dark-grey);
   padding: 40px 20px;
 }
 

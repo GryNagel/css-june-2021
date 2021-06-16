@@ -1,4 +1,4 @@
-# Intern fagdag: Nye ting i css (i alle fall nye for meg)
+# Intern fagdag 18.06.2021: Nye ting i css (i alle fall nye for meg)
 
 [📺 Slides kan du se her](https://grynagel.github.io/css-june-2021/index.html#1)
 
