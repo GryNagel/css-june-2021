@@ -4,7 +4,7 @@
 
 ## Codepen linker:
 
-- [is() + where()](https://codepen.io/grynag/pen/NWpoaRG) -
+- [is() + where()](https://codepen.io/grynag/pen/NWpoaRG)
 - [Container queries](https://codepen.io/grynag/pen/MWpLvrw)
 - [@supports](https://codepen.io/grynag/pen/mdWvwJV)
 - [Subgrid](https://codepen.io/grynag/pen/mdWvmgJ)
